@@ -30,10 +30,10 @@ const handler = createMcpHandler(
             ## 🌐 Connect With Me
             **Portfolio:** https://devojha.in
             **Resume:** https://www.devojha.in/resume
-            **GitHub:** https://github.com/devojhacodes
-            **LinkedIn:** https://www.linkedin.com/in/devojhacodes/
-            **Twitter/X:** https://x.com/devojhacodes
-            **Email:** devojhacodes@gmail.com
+            **GitHub:** https://github.com/dev0jha
+            **LinkedIn:** https://www.linkedin.com/in/dev0jha/
+            **Twitter/X:** https://x.com/dev0jha
+            **Email:** dev0jha@gmail.com
 
             ## 💼 Work Experience
 

@@ -60,7 +60,7 @@ export default function LinkAndInfo() {
                 className="w-full bg-white text-black hover:bg-slate-200 font-semibold text-lg py-6"
               >
                 <a
-                  href="https://github.com/devojhacodes/mcp-server"
+                  href="https://github.com/dev0jha/mcp-server"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -96,7 +96,7 @@ export default function LinkAndInfo() {
         className="text-center mt-20 pt-12 border-t border-slate-800"
       >
         <p className="text-slate-500 text-sm">
-          © 2025 Devojhacodes. All rights reserved.
+          © 2025 Dev. All rights reserved.
         </p>
       </motion.div>
     </section>

@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AppWrite MCP Server | devojhacodes",
-  description: "AppWrite MCP Server | devojhacodes",
+  title: "AppWrite MCP Server | Dev",
+  description: "AppWrite MCP Server | Dev",
 };
 
 export default function RootLayout({
