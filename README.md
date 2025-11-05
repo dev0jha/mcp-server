@@ -9,7 +9,7 @@
 
 A powerful **Model Context Protocol (MCP) Server** that provides seamless integration with Appwrite database operations. This project combines a beautiful, modern web interface with a robust MCP server for database interactions, built with Next.js 15, React 19, and the latest web technologies.
 
-![AppWrite MCP Server](./public/screenshot.png)
+![AppWrite MCP Server](public/Screenshot.png)
 
 ## 🌟 Features
 
