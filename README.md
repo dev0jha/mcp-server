@@ -1,4 +1,4 @@
-# AppWrite MCP Server
+# Appwrite MCP Server
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.3.3-black)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.0.0-blue)](https://reactjs.org/)
@@ -9,7 +9,7 @@
 
 A powerful **Model Context Protocol (MCP) Server** that provides seamless integration with Appwrite database operations. This project combines a beautiful, modern web interface with a robust MCP server for database interactions, built with Next.js 15, React 19, and the latest web technologies.
 
-![AppWrite MCP Server](public/Screenshot.png)
+![Appwrite MCP Server](public/Screenshot.png)
 
 ## 🌟 Features
 
